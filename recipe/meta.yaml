@@ -1,7 +1,7 @@
 {% set name = "ldap" %}
-{% set version = "1.0.2" %}
+{% set version = "2.0.0.404" %}
 {% set hash_type = "sha256" %}
-{% set hash_value = "ead51179daa5dbe6f635f5dbac4357ac7a2c278b5455393064522efb172377e5" %}
+{% set hash_value = "60da99f3c93a9667737e5fea7e692bb0a6fa649ceb488c51aed603e0e7c39433" %}
 
 package:
   name: '{{ name|lower }}'
